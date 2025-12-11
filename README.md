@@ -10,7 +10,7 @@
 
 **📘 Antes de comenzar, mantén esta guía abierta:**
 
-👉 **[Guía de Comandos Esenciales de SUI](https://github.com/gustavo-f0ntz/SUI-Comandos--Essenciais)**
+👉 **[Guía de Comandos Esenciales de SUI](https://github.com/Felurianx2/SUI-Comandos-esenciales)**
 
 Allí encontrarás:
 - ✅ Cómo instalar Sui CLI
