@@ -1,4 +1,4 @@
-# 🚀 SUI Workshop - Piauí
+# 🚀 SUI Workshop
 
 ¡Bienvenido al taller de introducción a Sui Blockchain!
 
