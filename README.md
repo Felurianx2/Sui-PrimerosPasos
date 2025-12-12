@@ -61,7 +61,7 @@ Allí encontrarás:
 
 ## 🎯 Cómo Usar Este Repositorio
 
-> **💡 Consejo:** ¡Siempre consulta la [Guía de Comandos](https://github.com/gustavo-f0ntz/SUI-Comandos--Essenciais) cuando tengas dudas!
+> **💡 Consejo:** ¡Siempre consulta la [Guía de Comandos](https://github.com/Felurianx2/SUI*Comandos-esenciales) cuando tengas dudas!
 
 ### Módulo 1: Hello Debug (¡Empieza aquí! 🚀)
 
@@ -104,7 +104,7 @@ sui client publish --gas-budget 100000000
 
 5. **Prueba tu función:**
 ```bash
-sui client call --package <PACKAGE_ID> --module hello --function create_message --args "Hello Piaui!" --gas-budget 10000000
+sui client call --package <PackageID> --module hello --function create_message --args "Hello, XXXX!"
 ```
 
 6. **Ve tu objeto creado:**
